@@ -3,7 +3,7 @@ Sample code for analysis detailed in "Modular Architecture and resilience of str
 Published in Nature's Scientific Reports 
 Open Access Article Link: https://www.nature.com/articles/s41598-023-34210-y
 
-Please cite using:
+PLEASE CITE THE FOLLOWING PAPER WHEN YOU USE/MODIFY THIS CODE:
 Lewis, M., Santini, T., Theis, N. et al. Modular architecture and resilience of structural covariance networks in first-episode antipsychotic-naive psychoses. Sci Rep 13, 7751 (2023). https://doi.org/10.1038/s41598-023-34210-y
 
 Step by step code is detailed in FirstBreak_HCP_SCN_Analysis.m 
