@@ -13,4 +13,5 @@ Code also relies on Brain Connectivity Toolbox https://sites.google.com/site/bc
 In article we have six groups but these codes only show two groups for simplicity and clarity.
 
 Contact first author Madison Lewis (mtl47@pitt.edu) if there are any questions.
+
 Data Sharing: Please see manuscript for data sharing policy.
