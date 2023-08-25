@@ -12,4 +12,5 @@ Dependencies are in house codes written by CONCEPT Lab members
 Code also relies on Brain Connectivity Toolbox https://sites.google.com/site/bctnet/
 In article we have six groups but these codes only show two groups for simplicity and clarity.
 
-Contact first author Madison Lewis (mtl47@pitt.edu) if there are any questions or to request sample data from morphometric measures of parcellations.
+Contact first author Madison Lewis (mtl47@pitt.edu) if there are any questions.
+Data Sharing: Please see manuscript for data sharing policy.
